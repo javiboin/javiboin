@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javiboin</h1>
 <h3 align="center">Web Developer</h3>
 
-- 📫 How to reach me **javiboindev@gmail.com**
+- 📫 How to reach me
+- **javiboindev@gmail.com**
+- **javi_14_228@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
