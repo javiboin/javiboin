@@ -18,14 +18,7 @@ Soy un **Backend Developer** especializado en **Node.js**. Me apasiona crear sol
 - **Otros:**  CI/CD
 
 ## 📫 Contacto
-Si quieres hablar sobre desarrollo backend o colaborar en un proyecto, puedes encontrarme aquí:
-- 📧 **Email:** javiboindev@gmail.com | javi_14_228@hotmail.com
+Puedes encontrarme aquí:
 - 🔗 **LinkedIn:** [Javier Alejandro Oyarzo](https://www.linkedin.com/in/javier-alejandro-oyarzo-7110aa138)
-- 🏡 **GitHub:** [javiboin](https://github.com/javiboin)
-
-## 📌 Proyectos Destacados
-Aquí algunos de mis proyectos:
-- 🔹 [Gestor de Tareas](https://github.com/javiboin/gestor-de-tareas) - API RESTful para gestionar tareas.
-- 🔹 [Venta de Gatitos](https://github.com/javiboin/Venta-de-Gatitos) - Proyecto de curso HTML y CSS.
 
 
