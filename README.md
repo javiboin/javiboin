@@ -2,6 +2,7 @@
 
 ## 🚀 Sobre mí
 Soy un **Backend Developer** especializado en **Node.js**. Me apasiona crear soluciones eficientes y escalables. Actualmente, estoy trabajando en proyectos como **Gestor de Tareas** y contribuyendo a otros repositorios.
+PROXIMAMENTE: **Fullstack Developer**
 
 ## 🛠️ Tecnologías y Herramientas
 - **Sistemas Operativos:** Windows, Linux
