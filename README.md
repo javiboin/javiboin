@@ -1,22 +1,28 @@
-# 👋 ¡Hola Mundo! Soy Javier Alejandro Oyarzo (Javiboin)
+# 👋 Hola Soy Javier Oyarzo — @javiboin
+ 
+
+## 🚀 Perfil Técnico
+Estudiante Bootcamp Digital House de Programación Web Full Stack con JavaScript
+Tengo los conocimientos para desempeñarme como **Backend Developer** especializado en **Node.js**.
 
 ## 🚀 Sobre mí
-Soy un **Backend Developer** especializado en **Node.js**. Me apasiona crear soluciones eficientes y escalables. Actualmente, estoy trabajando en proyectos como **Gestor de Tareas** y contribuyendo a otros repositorios.
-PROXIMAMENTE: **Fullstack Developer**
 
-## 🛠️ Tecnologías y Herramientas
-- **Sistemas Operativos:** Windows, Linux
-- **Lenguajes:** JavaScript
-- **Frameworks:** Express.js
-- **Entorno de Ejecución:** Node Js
+Desarrollador web en transición hacia el fullstack, con base sólida en backend (Node.js, Express, MySQL) y experiencia práctica en diseño de APIs REST, automatización de flujos y estructuración de bases de datos.
+
+
+
+
+## 🔧 Tecnologías que uso con frecuencia:
+
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Aprendiendo React
+- **Backend:** NodeJs, ExpressJs, MVC, MochaJs, Redis, BcryptJs, Autenticación (Google, Linkedin, Auth0)
 - **Bases de Datos:** MongoDB, MySQL
-- **Control de Versiones:** Git
-- **Gestor de Repositorios:** GitHub, GitLab
-- **Testing:** Mocha js, Chai Js
-- **Despliegue de Aplicaciones:** Docker, AWS
+- **ORM:** Sequelize
+- **DevOps:** Docker, Nginx, AWS EC2
+- **Testing & Seguridad:** Mocha, Helmet, Bcrypt
 - **Servidor Web:** Nignx, Apache
-- **Cache:** Redis
-- **Otros:**  CI/CD
+- **Despliegue de Aplicaciones:** Docker, AWS
+- **Herramientas:** Git, GitHub, Postman, Trello, Notion
 
 ## 📫 Contacto
 Puedes encontrarme aquí:
