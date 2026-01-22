@@ -13,7 +13,7 @@ Transformo ideas en productos funcionales con un enfoque en escalabilidad y expe
 - **DevOps:** Docker, Nginx, AWS EC2
 - **Testing & Seguridad:** Mocha
 - **Servidor Web:** Nignx, Apache
-- **Despliegue de Aplicaciones:** Docker, AWS
+- **Despliegue de Aplicaciones:** AWS, Render, Railway, Vercel
 - **Herramientas:** Git, Postman, Trello, Notion
 
 ## 📫 Contacto
