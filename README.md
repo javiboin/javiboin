@@ -1,4 +1,4 @@
-# 👋 **Javiboin** - Fullstack Developer (Node.js + React) | UX-Oriented 
+# 👋 **Javiboin** - Desarrollador Fullstack (Node.js + React) | UX-Oriented 
 
 ## 🚀 Sobre mí
 
