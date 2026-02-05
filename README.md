@@ -1,5 +1,4 @@
-# 👋 **Javiboin** - Desarrollador Fullstack (Node.js + React) | UX-Oriented 
-
+# 👋 **Javiboin** - Programador Fullstack JavaScript (React & Node.js) | Analista de Sistemas | Inglés B2
 ## 🚀 Sobre mí
 
 Transformo ideas en productos funcionales con un enfoque en escalabilidad y experiencia de usuario. Actualmente desarrollando soluciones a medida para optimizar procesos de negocio.
