@@ -1,19 +1,25 @@
-# 👋 **Javiboin** - Programador Fullstack JavaScript (React & Node.js) | Analista de Sistemas | Inglés B2
-## 🚀 Sobre mí
+# 👋 Hola, soy Javier Alejandro Oyarzo (Javiboin)
+## Analista de Sistemas | Fullstack Developer (Node.js - React)
 
-Transformo ideas en productos funcionales con un enfoque en escalabilidad y experiencia de usuario. Actualmente desarrollando soluciones a medida para optimizar procesos de negocio.
+Analista de Sistemas con experiencia en gestión de procesos y soporte de infraestructura técnica. Contando con formación y práctica en el desarrollo Web, mi enfoque profesional se centra en la transición hacia roles de ingeniería, aportando una visión basada en la operatividad real y el mantenimiento de sistemas en producción.
 
-## 🔧 Tecnologías que uso con frecuencia:
+### 🔧 Stack Tecnológico
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
+- **Backend:** Node.js, Express, Sequelize (ORM), Redis, BcryptJs.
+- **Bases de Datos:** MySQL, MongoDB.
+- **Autenticación:** Auth0, Google & LinkedIn OAuth.
+- **DevOps & Cloud:** Docker, AWS (EC2), Nginx, Apache, Render, Railway, Vercel.
+- **Testing:** Mocha.
+- **Herramientas:** Git/GitHub, Postman, Jira, Trello, Notion.
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.
-- **Backend:** ExpressJs, Redis, BcryptJs, Autenticación (Google, Linkedin, Auth0)
-- **Bases de Datos:** MongoDB, MySQL
-- **ORM:** Sequelize
-- **DevOps:** Docker, Nginx, AWS EC2
-- **Testing & Seguridad:** Mocha
-- **Servidor Web:** Nignx, Apache
-- **Despliegue de Aplicaciones:** AWS, Render, Railway, Vercel
-- **Herramientas:** Git, Postman, Trello, Notion
+### 🎓 Formación Destacada
+- **Técnico Superior en Análisis de Sistemas.**
+- **Aceleración Backend Node.js** | Alkemy.
+- **Programa intensivo de Desarrollo Web Backend** | Globant/Acámica - Code Your Future.
+- **Fullstack Web Development** | Digital House.
 
-## 📫 Contacto
-- 🔗 **LinkedIn:** [Javier Alejandro Oyarzo](https://www.linkedin.com/in/javier-alejandro-oyarzo-7110aa138)
+### 📫 Contacto
+- 🔗 [LinkedIn](https://www.linkedin.com/in/javier-alejandro-oyarzo-7110aa138/)
+
+---
+"Mi objetivo es integrar mis capacidades técnicas en un entorno dinámico para desarrollar mi potencial en IT y contribuir a la construcción de sistemas robustos."*
