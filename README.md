@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hola, soy Javier Alejandro Oyarzo (Javiboin)</h1>
+  <h1>👋 Hola, soy Javier Alejandro Oyarzo </h1>
   <h3>Analista de Sistemas | Fullstack Developer (Node.js - React)</h3>
   
   *Mi objetivo es integrar mis capacidades técnicas en un entorno dinámico para desarrollar mi potencial en IT y contribuir a la construcción de sistemas robustos.*
