@@ -1,15 +1,23 @@
 <div align="center">
   <h1>👋 Hola, soy Javier Alejandro Oyarzo </h1>
   <h3>Analista de Sistemas | Fullstack Developer (Node.js - React)</h3>
-  
-  *Mi objetivo es integrar mis capacidades técnicas en un entorno dinámico para desarrollar mi potencial en IT y contribuir a la construcción de sistemas robustos.*
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mí
 
-Analista de Sistemas con experiencia en gestión de procesos y soporte de infraestructura técnica. Contando con formación y práctica en el desarrollo Web, mi enfoque profesional se centra en la transición hacia roles de ingeniería, aportando una visión basada en la operatividad real y el mantenimiento de sistemas en producción.
+Analista de Sistemas enfocado en desarrollo Fullstack e Infraestructura.
+
+Perfil técnico enfocado en la arquitectura y desarrollo de sistemas web estables, mantenibles y de alto rendimiento, combinando expertise en JavaScript, Node.js y React para crear soluciones robustas y eficientes en entornos de producción.
+
+Áreas de ejecución:
+
+Backend & Logic: Arquitecturas escalables con Node.js.
+
+Frontend & Interface: Desarrollo reactivo con React.
+
+Infrastructure & Ops: Soporte, diagnóstico y mantenimiento de infraestructura crítica.
 
 ---
 
