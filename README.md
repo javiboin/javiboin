@@ -75,3 +75,13 @@ Siéntete libre de conectar conmigo:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
+
+## 📂 Proyectos Destacados
+
+| Proyecto | Descripción breve | Stack | Demo | Código |
+|---|---|---|---|---|
+| **Guitar Scales** | Aplicación que muestra escalas de guitarra interactiva. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Netlify 🌐](https://guitar-scales-javiboin.netlify.app/) | [GitHub 🐙](https://github.com/javiboin/guitar-scales-react) |
+| **Gestor de tareas v2** | Sistema de gestión de tareas con avanzado manejo de estados. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Netlify 🌐](https://gestor-de-tareas-v2.netlify.app/) | [GitHub 🐙](https://github.com/javiboin/gestor-de-tareas-V2.0) |
+| **Carrito de compras** | E‑commerce demo con carrito y checkout simulados. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Netlify 🌐](https://carrito-compras-react-javiboin.netlify.app/) | [GitHub 🐙](https://github.com/javiboin/carrito-compras-react) |
+| **Buscador de películas** | Busca y muestra información de películas usando API externa. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [Netlify 🌐](https://buscador-peliculas-react-javiboin.netlify.app/) | [GitHub 🐙](https://github.com/javiboin/app-peliculas-react) |
