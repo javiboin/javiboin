@@ -7,9 +7,8 @@
 
 ## 💻 Portfolio [ En Construcción ]
 
-[Netlify 🌐](https://portfolio-javiboin.netlify.app/)
-
-[GitHub 🐙](https://github.com/javiboin/dev-portfolio)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-javiboin.netlify.app/)
+[![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javiboin/dev-portfolio)
 
 ---
 
