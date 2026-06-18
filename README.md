@@ -7,8 +7,8 @@
 
 ## 💻 Portfolio [ En Construcción ]
 
-<a href="https://portfolio-javiboin.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
-<a href="https://github.com/javiboin/dev-portfolio" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-javiboin.netlify.app/)
+[![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javiboin/dev-portfolio)
 
 ---
 
