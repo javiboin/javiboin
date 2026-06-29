@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Javier Alejandro Oyarzo </h1>
-  <h3>Analista de Sistemas | Fullstack Developer (Node.js - React)</h3>
+  <h3>Administración | Analista de Sistemas | Fullstack JS | React · Node · MySQL · DevOps</h3>
 </div>
 
 ---
@@ -10,31 +10,6 @@
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-portfolio-tan-nu.vercel.app/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-javiboin.netlify.app/)
 [![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javiboin/dev-portfolio)
-
----
-
-## 👨‍💻 Sobre Mí
-
-Analista de Sistemas enfocado en desarrollo Fullstack e Infraestructura.
-
-Perfil técnico enfocado en la arquitectura y desarrollo de sistemas web estables, mantenibles y de alto rendimiento, combinando expertise en JavaScript, Node.js y React para crear soluciones robustas y eficientes en entornos de producción.
-
-Áreas de ejecución:
-
-Backend & Logic: Arquitecturas escalables con Node.js.
-
-Frontend & Interface: Desarrollo reactivo con React.
-
-Infrastructure & Ops: Soporte, diagnóstico y mantenimiento de infraestructura crítica.
-
----
-
-## 🎓 Formación Destacada
-
-- 🏛️ **Técnico Superior en Análisis de Sistemas.**
-- 🚀 **Aceleración Backend Node.js** | _Alkemy_
-- 💻 **Programa intensivo de Desarrollo Web Backend** | _Globant / Acámica - Code Your Future_
-- 🌐 **Fullstack Web Development** | _Digital House_
 
 ---
 
@@ -90,6 +65,31 @@ Infrastructure & Ops: Soporte, diagnóstico y mantenimiento de infraestructura c
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"/>
 </div>
+
+---
+
+## 👨‍💻 Sobre Mí
+
+Analista de Sistemas enfocado en desarrollo Fullstack e Infraestructura.
+
+Perfil Híbrido enfocado en la arquitectura y desarrollo de sistemas web estables, mantenibles y de alto rendimiento, combinando expertise en JavaScript, Node.js y React para crear soluciones robustas y eficientes en entornos de producción. También tengo experiencia en gestión y análisis de sistemas, lo que me permite tener una visión integral del ciclo de vida del desarrollo de software.
+
+Áreas de ejecución:
+
+Backend & Logic: Arquitecturas escalables con Node.js.
+
+Frontend & Interface: Desarrollo reactivo con React.
+
+Infrastructure & Ops: Soporte, diagnóstico y mantenimiento de infraestructura crítica.
+
+---
+
+## 🎓 Formación Destacada
+
+- 🏛️ **Técnico Superior en Análisis de Sistemas.** | CENT 35 | 2017
+- 🚀 **Aceleración Backend Node.js** | _Alkemy_ | 2024
+- 💻 **Programa intensivo de Desarrollo Web Backend** | _Globant / Acámica - Code Your Future_ | 2025
+- 🌐 **Fullstack Web Development** | _Digital House_ | 2024
 
 ---
 
